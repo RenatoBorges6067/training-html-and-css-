@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <link rel="stylesheet" href="treino.css">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RBIKE</title>
+
+</head>
+<body>
+
+    <nav id="menu-h">
+        <ul>
+            <li>
+                <a href="https://github.com/">
+                    Home
+                </a>
+            </li>
+
+            <li><a href="https://github.com/">sobre</a></li>
+
+            <li><a href="#">QUEM SOMOS</a></li>
+            
+            <li><a href="#">Contato</a></li>
+
+            <li><a href="#">Entrar</a></li>
+
+        </ul>
+    </nav>
+
+
+
+    <div class="head">
+        <h1>RBIKES</h1>
+    </div>
+    
+
+    
+    <div id="mae">
+        <div class="b1"><img src="IMAGENS/rh_elite_vermelha.png" alt="">
+        
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, magni! Nemo voluptatibus corrupti nesciunt debitis. Nulla a aspernatur minus voluptatibus aliquid, ab earum nisi commodi aperiam corrupti dolor enim tenetur.</P></div>
+
+
+
+        <div class="b2"><img src="IMAGENS/rh_sport_preto_e_cinza.png" alt="">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt recusandae maxime ad, est totam harum ducimus odio nam accusamus sunt quidem earum sit ut aliquid nulla ipsam iste officiis architecto.</p>
+    </div>
+        
+        
+
+    </div>
+
+    <div class="t1"></div>
+
+    
+    
+    </body>
+</html>
